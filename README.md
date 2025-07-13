@@ -86,7 +86,4 @@ A Windows GUI tool for automatically scanning, categorizing, and organizing your
   • Fixed watcher crash when `watchdog` not installed  
   • Improved thread-safety during scanning & moving  
 
----
-
-## 📂 File Layout
 
